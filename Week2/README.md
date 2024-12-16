@@ -1,7 +1,7 @@
 
 
 ### Week 2: Understanding Advanced Neural Networks and Graph Neural Networks
-**Note:** - the content of week2 will get updated and organized after halfway point of Week 1. if you are comfortable with week 1, then you can go through GNN articles provided.
+<!-- **Note:** - the content of week2 will get updated and organized after halfway point of Week 1. if you are comfortable with week 1, then you can go through GNN articles provided. -->
 - **Resources**: 
   - To get the intuition of ReLU activation, read this article: [Visualizing Piecewise Linear Neural Networks](https://blog.janestreet.com/visualizing-piecewise-linear-neural-networks/).
   - Go over this [Coursera course](https://www.coursera.org/learn/neural-networks-deep-learning) to learn more about neural networks.

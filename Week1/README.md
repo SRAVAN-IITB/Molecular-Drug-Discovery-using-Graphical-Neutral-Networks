@@ -1,4 +1,4 @@
-This week is going to be covering some basic concepts and get the hang of syntax of required libraries. 
+<!-- This week is going to be covering some basic concepts and get the hang of syntax of required libraries. 
 
 Some basic fast learning tips:
 You can always ask chatgpt to understand the syntax of any library/framework, you can give relevant prompts like:
@@ -8,7 +8,7 @@ complex practice example to get the hang of it in depth.
 
 **We would recommend you to solve the assignments on your own without using any LLM's, if you don't know the syntax to make a particular part of problem work in particular framework/library you are working on,then you can just google the syntax required and implement it on your own, if you implement any stuff using LLM, make sure you understand each and every line of it and then implement that stuff by yourselves rather than copy pasting.**
 
-**We would also recommend to go through optional readings and optional assignments**
+**We would also recommend to go through optional readings and optional assignments** -->
 
 ### Week 1: Get Familiar with Python Libraries
 - **Libraries**: Numpy, Matplotlib, PyTorch
@@ -55,4 +55,4 @@ complex practice example to get the hang of it in depth.
   
 - **Assignment 3 (Optional)**: Implement Feed Forward Neural Network on cat and dog dataset from Kaggle and improve the model accuracy using various preprocessing techniques and hyperparameter fine-tuning.
 
-- Submission format: Make your github repository. You can clone our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub.
+<!-- - Submission format: Make your github repository. You can clone our repo and add your work to it. We will float Google forms asking the repo links, please feel free to reach out in case you are new to GitHub. -->
