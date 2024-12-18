@@ -1,0 +1,15 @@
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other common unwanted files
+*.log
+*.bak
+*.swp
+*.swo
+*.DS_Store
