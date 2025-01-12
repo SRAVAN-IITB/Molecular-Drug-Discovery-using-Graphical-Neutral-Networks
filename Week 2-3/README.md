@@ -26,13 +26,13 @@
  - Main idea is to get the intuition of how CNN works, you can do experimentation and play with various parameters to get more understanding.
 --- 
 
-**Part 2(Graphical Neural Networks and related stuff)(more resources and assignments will be added here soon)**
+### Week 3 (Graphical Neural Networks and related stuff)
 
 ### Introduction to Graph Data Structure
 - [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm) (till representation of graph)
 
 ### Graph representation in Machine learning 
-  -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf)
+  -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf) ( you can skip the mathematical part of node2vec if its too heavy. The main idea of this reading is to learn how graph nodes are embedded by just utilising structure of the graph )
   
 ### Introduction to GNN
   -  [Understanding GNNs](https://distill.pub/2021/understanding-gnns/)
@@ -44,9 +44,9 @@
 ### GNN Layer, Layer connectivity and Graph Manipulation :
   - https://web.stanford.edu/class/cs224w/slides/04-GNN2.pdf
 
-### Hands-on with karateclub dataset
-  - https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95
-
+### Hands-on 
+  - [Node classification on karate club dataset](https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95)
+  - [Graph classification](https://colab.research.google.com/drive/1I8a0DfQ3fI7Njc62__mVXUlcAleUclnb?usp=sharing#scrollTo=N-FO5xL3mw98)
 #### For Graph Neural Networks
 - **Articles for Basic Ideas**:
   - [Neptune.ai: Graph Neural Network and Some of GNN Applications](https://neptune.ai/blog/graph-neural-network-and-some-of-gnn-applications)
@@ -55,8 +55,9 @@
 - **Optional Readings**:
   - Stanford course slides for those who wants to go more in theory : https://web.stanford.edu/class/cs224w/
   - Read and understand the research paper: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212).
-  - Read this article on how to use Graphical Neural Networks in drug discovery: [Drug Discovery and Graph Neural Networks](https://medium.com/@mulugetas/drug-discovery-and-graph-neural-networks-gnns-a-regression-example-fc738e0f11f3).
 
 #### Tutorials and Videos
 - [YouTube: Graph Neural Networks Introduction](https://www.youtube.com/watch?v=8owQBFAHw7E)
-- [YouTube Playlist: Graph Neural Networks](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=GiLMZdfS5szrhH0z)
+- [Stanford Course Playlist: Graph Neural Networks](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&si=GiLMZdfS5szrhH0z)
+
+**PyTorch Geometric Documentation** - https://pytorch-geometric.readthedocs.io/en/latest
