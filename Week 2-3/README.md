@@ -32,7 +32,7 @@
 - [Graph Data Structure - tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm) (till representation of graph)
 
 ### Graph representation in Machine learning 
-  -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf) ( you can skip the mathematical part of node2vec if its too heavy. The main idea of this reading is to learn how graph nodes are embedded by just utilising structure of the graph )
+  -  [Unsupervised Node Embedding](https://web.stanford.edu/class/cs224w/slides/02-nodeemb.pdf)
   
 ### Introduction to GNN
   -  [Understanding GNNs](https://distill.pub/2021/understanding-gnns/)
