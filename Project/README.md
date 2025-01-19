@@ -58,7 +58,7 @@ Visualize the evaluation metrics by plotting a graph of this Metric Score vs Epo
 
 
 ###  Report
-[Click here](/report.pdf) for the concise report of 1-2 pages, including the following sections:
+[Click here](/Project/report.pdf) for the concise report of 1-2 pages, including the following sections:
 
 1. **Model Architecture Summary** :
  Provides an overview of the model architecture.
